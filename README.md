@@ -7,7 +7,20 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
- 
+
+ 🛠 Skills | 技能
+- 计算机基础：熟悉常见的数据结构和算法、了解计算机网络和操作系统
+- 语言：常用Javascript, Python；熟悉C++, Java, TypeScript；了解Golang, Shell；了解内存管理、多线程
+- 熟悉 机器学习中常见算法（SVM、决策树、随机森林、K-Means 、PCA）
+- 熟悉 Numpy、Pandas、Matplotilb进行数据分析，利用Sklearn进行机器学习数据挖掘
+- 熟练使用 常见的深度学习网络CNN、RNN，深度学习中常见模型（nn-Unet、nnFormer）并能进行模型调整与参数调优
+- 熟练使用 PaddlePadle框架下的PaddleSeg,并能根据不同数据进行模型调整，了解如何进行论文与模型复现
+- 熟练使用 Pytorch框架下的LibFewShot小样本算法库，并能根据不同数据进行模型调整，了解如何进行论文与模型复现
+- 框架：常用Flask，vue3；熟悉Diango，Fastapi等常用框架，了解多线程、异步编程
+- 数据库：熟悉MySQL的基础、架构、日志、事务、索引，具备一定的SQL调优能力
+- 熟悉 数据库的设计模式及架构原则，了解Redies，了解PostgreSQL
+- 熟练使用 Linux 操作系统及常用命令、Docker 常用命令、了解MVC的基本思想，以及常用的基本概念和分层架构
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ZJhorseloudly&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
