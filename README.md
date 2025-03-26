@@ -1,4 +1,4 @@
-<h2>哎呀！被发现了(*/ω＼*)～</h2>
+哎呀！被发现了(*/ω＼*)～
 <h1 align="center"> Hi 👋, I'm 马响亮 (maxiangliang) </h1>
 
 <p align="center">
