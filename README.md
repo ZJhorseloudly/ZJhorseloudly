@@ -17,7 +17,7 @@
 ### **✨ Ma XiangLiang | 马响亮**
 🚀 **计算机科学与技术 | 大数据分析与应用 | 人工智能 | 医学图像分析**  
 🎯 **专注于机器学习、人工智能、医学图像分析**  
-📫 **邮箱：18248619707@163.com**
+-  ⌈ E-mail ⌋：`echo 'MTgyNDg2MTk3MDdAMTYzLmNvbQ==' | base64 -d`
 ---
 
 ## 👋 **About Me**
